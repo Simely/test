@@ -1,0 +1,4 @@
+keymaps 0-255
+keycode 1 = CtrlL_Lock
+keycode 58 = Escape
+
