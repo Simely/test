@@ -5,7 +5,7 @@
        WORKING-STORAGE SECTION.
 
        01 WS-RANDOMS.
-          05 U                         PIC 9(3) VALUE 000.
+          05 Usdsd                         PIC 9(3) VALUE 000.
           05 D                         PIC 9(3) VALUE 000.
           05 A                         PIC 9(2) VALUE 00.
           05 WS-COMP                   PIC 9(20).
